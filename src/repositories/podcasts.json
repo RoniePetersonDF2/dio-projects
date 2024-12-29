@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "teste",
+        "episode": "Teste - Flow #312",
+        "videoId": "0000000",
+        "categories": ["esporte"]
+    }
+]
